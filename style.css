@@ -1,0 +1,15 @@
+nav {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    background-color: #E78587;
+}
+
+nav a.bar {
+    border-right: 3px solid black;
+}
+
